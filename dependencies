@@ -1,0 +1,9 @@
+# Install xclip for copy and pasting
+sudo apt-get install xclip
+
+# Install tesseract for ocr
+sudo apt-get install tesseract-ocr
+sudo apt-get install tesseract-ocr-por
+
+# Install imagemagick
+sudo apt install imagemagick
